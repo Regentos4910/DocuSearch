@@ -1,0 +1,22 @@
+{
+  "placeholderImages": [
+    {
+      "id": "chart-1",
+      "description": "A bar chart showing quarterly revenue.",
+      "imageUrl": "https://images.unsplash.com/photo-1712640183722-ec59693f7c82?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxiYXIlMjBjaGFydHxlbnwwfHx8fDE3Njc3ODMxMDR8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "bar chart"
+    },
+    {
+      "id": "diagram-1",
+      "description": "A flow diagram of a business process.",
+      "imageUrl": "https://images.unsplash.com/photo-1618162773067-47314b48735d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxmbG93JTIwZGlhZ3JhbXxlbnwwfHx8fDE3Njc2ODU5MzJ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "flow diagram"
+    },
+    {
+      "id": "chart-2",
+      "description": "A pie chart illustrating market share distribution.",
+      "imageUrl": "https://images.unsplash.com/photo-1562007908-859b4ba9a1a2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8cGllJTIwY2hhcnR8ZW58MHx8fHwxNzY3NzgzMTAzfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "pie chart"
+    }
+  ]
+}
