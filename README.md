@@ -1,5 +1,11 @@
-# Firebase Studio
+## Tech Stack
 
-This is a NextJS starter in Firebase Studio.
+This project is built with the following technologies:
 
-To get started, take a look at src/app/page.tsx.
+- **Next.js**: A React framework for building full-stack web applications.
+- **React**: A JavaScript library for building user interfaces.
+- **TypeScript**: A typed superset of JavaScript that compiles to plain JavaScript.
+- **Tailwind CSS**: A utility-first CSS framework for rapid UI development.
+- **ShadCN UI**: A collection of reusable UI components.
+- **Genkit**: An open-source framework for building AI-powered applications.
+- **Firebase**: A platform for building web and mobile applications.
